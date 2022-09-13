@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @luix
-- 👀 I’m interested in ...    d
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  
+- 👋 ¡Hola! Soy Luis {luix}
+- 🤖 I’m interested in robotics, AI & machine learning 
+- 📚 Continuous learning 
+- 🛸 Autonomous flying vehicles engineering 
+- ⏰ 5AM Club 
 
 <!---
 luix/luix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
