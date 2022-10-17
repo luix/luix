@@ -1,7 +1,7 @@
 - 👋 ¡Hola! Soy Luis {luix}
-- 🤖 I’m interested in robotics, AI & machine learning 
-- 📚 Continuous learning 
-- 🛸 Autonomous flying vehicles engineering 
+- 🤖 Robotics, AI & machine learning,
+- 📚 Continuous learning
+- 🛸 Autonomous flying vehicles engineering,
 - ⏰ 5AM Club 
 
 <!---
