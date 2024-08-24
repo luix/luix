@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🛸 I have hands on experience applied to autonomous driving and flying technologies, artificial intelligence, and robotics. **[A Journey from Introduction to Artificial Intelligence to Self-Driving Cars](https://medium.com/@luis.a.vivero/a-journey-from-introduction-to-artificial-intelligence-to-self-driving-cars-d5cce071d32)**
 
-- 🚀 Programming languages: Kotlin, Java, C/C++, C#, Objective-C, Swift, Python, Rust, JavaScript and Typescript.
+- 🚀 Programming languages: Kotlin, Swift, Java, Objective-C, C/C++, C#, Python, Rust, JavaScript and Typescript.
 
 - ⏰ Member of The 5AM Club: *"Own your morning, elevate your life."*
 
