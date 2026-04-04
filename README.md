@@ -51,6 +51,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 My Github Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luix&theme=react&hide_border=true)](https://git.io/streak-stats)
+
 <br/>
 <br/>
 
