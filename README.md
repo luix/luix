@@ -55,8 +55,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
   <div align="center">
-   <a href="https://github.com/luix/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luix&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/luix/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luix&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/luix/github-readme-stats"><img alt="Luix's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luix&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/luix/github-readme-stats"><img alt="Luix's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luix&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <br/>
   The above is only a metric of the languages used on my public repositories.
