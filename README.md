@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,flutter,idea,vscode,linux,sqlite,firebase,gradle,git,github,githubactions,gradle,graphql,java,py,ai,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,flutter,idea,vscode,firebase,git,githubactions,gitlab,github,gradle,sqlite,ai,graphql,java,py,webstorm,react,ts,html,css,linux&theme=dark)](https://skillicons.dev)
 
 <br/>
 
