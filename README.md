@@ -5,7 +5,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 👋 ¡Hola! Soy Luis {luix} 🇲🇽
 
-- 👨🏽‍💻 I am a Software Engineer working at **[Microsoft](https://news.microsoft.com/life/)** experienced in designing, architecting and developing mobile applications using best practices of software development to write quality and efficient code.
+- 👨🏽‍💻 I am a Software Engineer experienced building high-impact mobile Android applications and platform
+foundations. Passionate about improving developer efficiency by architecting robust libraries, APIs,
+and frameworks that empower engineering teams to ship high-quality code at scale.
 
 - 📚 A continuous learner with a solid foundation in algorithms, data structures, design paterns and software architecture.
 
